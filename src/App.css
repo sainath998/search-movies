@@ -204,3 +204,36 @@ h1 {
     margin: 1rem;
   }
 }
+
+
+
+.sign-in {
+  color: red;
+  background: white;
+  padding: 5px;
+  background-color: tomato;
+  color: black;
+  border-radius:10px;
+  max-width: 400px;
+  margin-left: 45%;
+  margin-top: 20%;
+
+  text-align: center;
+}
+
+.sign-out {
+  color: red;
+  background: white;
+  padding: 5px;
+  background-color: tomato;
+  color: black;
+  border-radius:10px;
+  max-width: 400px;
+  margin-top: 20%;
+  text-align: center;
+  
+}
+
+*{
+  background-color: #212426;
+}
