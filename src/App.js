@@ -3,7 +3,7 @@ import "./App.css";
 import { useEffect, useState } from "react";
 import MovieCard from "./MovieCard";
 
-const API_URL = "http://www.omdbapi.com?apikey=b177d325";
+const API_URL = "https://www.omdbapi.com?apikey=b177d325";
 
 const movie1 = {
   Title: "Batman Begins",
